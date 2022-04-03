@@ -25,7 +25,7 @@ hi Title ctermfg=132 ctermbg=NONE cterm=bold guifg=#a05b89 guibg=NONE gui=bold
 hi StatusLine ctermfg=243 ctermbg=251 cterm=NONE guifg=#697383 guibg=#d3d1cc gui=NONE
 hi StatusLineNC ctermfg=247 ctermbg=188 cterm=NONE guifg=#929cad guibg=#dfddd7 gui=NONE
 hi VertSplit ctermfg=188 ctermbg=188 cterm=NONE guifg=#dfddd7 guibg=#dfddd7 gui=NONE
-hi LineNr ctermfg=145 ctermbg=188 cterm=NONE guifg=#bdbbb6 guibg=#dfddd7 gui=NONE
+hi LineNr ctermfg=145 ctermbg=254 cterm=NONE guifg=#bdbbb6 guibg=#e7e5e2 gui=NONE
 hi CursorLineNr ctermfg=59 ctermbg=251 cterm=bold guifg=#555f6f guibg=#d3d1cc gui=bold
 hi SpecialKey ctermfg=188 ctermbg=66 cterm=bold guifg=#cbd7dc guibg=#5e99b1 gui=bold
 hi NonText ctermfg=247 ctermbg=254 cterm=NONE guifg=#929cad guibg=#e7e5e2 gui=NONE
